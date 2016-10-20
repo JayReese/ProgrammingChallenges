@@ -1,0 +1,6 @@
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\bin\Debug\ProgChallenges.exe.config
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\bin\Debug\ProgChallenges.exe
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\bin\Debug\ProgChallenges.pdb
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\obj\Debug\ProgChallenges.csprojResolveAssemblyReference.cache
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\obj\Debug\ProgChallenges.exe
+\\iam.local\usernoniam\jordon.reese\visual studio 2015\Projects\ProgChallenges\ProgChallenges\obj\Debug\ProgChallenges.pdb
